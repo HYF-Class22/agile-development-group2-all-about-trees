@@ -1,6 +1,6 @@
 # Name of project
 
-> A longer description
+> save the planet : some informations about tree
 
 ## Table of contents
 
