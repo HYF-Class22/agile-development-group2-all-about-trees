@@ -19,7 +19,8 @@
     "Khant",
     "Ashraf",
     "Rasaq",
-    "Stamm"
+    "Stamm",
+    "liveshare"
   ],
   "ignorePaths": [
     "node_modules/**",
